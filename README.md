@@ -1,3 +1,5 @@
+<img align='center' alt='KIRBY_BANNER' src='https://cdn.discordapp.com/attachments/931321546931314708/1011700065573810269/Kirby_Banner.png' />
+
 <p>
   <h1 align='center'><b>⚡ Kirby_YT ⚡</b></h1>
 </p>
