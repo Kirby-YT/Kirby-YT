@@ -23,7 +23,7 @@
 - 💻 Estoy aprendiendo HTML y CSS
 - 📚 Siempre busco lamanera de aprender algo nuevo
 - 👯 Buscando colaborar y aprender con otros desarrolladores
-- 📖 Estoy trabajando en un bot de Discord.js llamado [Sparky](https://discord.com/api/oauth2/authorize?client_id=998729514295251065&permissions=8&scope=bot%20applications.commands)
+- 📖 Estoy trabajando en un bot de Discord.js llamado Sparky
 - 💡 Metas del 2022 - Dominar HTML, CSS y JavaScript
 - ⭐ Siempre busco superar mis límites
 
